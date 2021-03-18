@@ -148,7 +148,7 @@
     "backgroundImage": "t_logo_dark.png",
     "labelColor": "#fff"
   },
-  "AutCast Logo - Grey": {
+  "AutCast Logo - Golden": {
     "waveColor": "rgba(102, 80, 62, 0.25)",
     "foregroundColor": "#66503e",
     "citationColor": "#66503e",
@@ -157,7 +157,7 @@
     "labelColor": "#fff",
     "labelText": "De AutCast"
   },
-  "AutCast - Grey": {
+  "AutCast - Aqua": {
     "waveColor": "rgba(255, 255, 255, 0.35)",
     "foregroundColor": "rgba(0, 0, 0, 0.9)",
     "citationColor": "rgba(0, 0, 0, 0.9)",
